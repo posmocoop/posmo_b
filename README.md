@@ -13,4 +13,7 @@
 2. Ethikrat
 3. Ausserordentliche Generalversammlung (Woche: March 30 - April 3)
 
+## Approved on April 7
+See Documents on the Slack Channel
+
 
