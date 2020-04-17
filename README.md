@@ -8,7 +8,7 @@ The potential abuse risk is too high.
         
 - Time Slot Booking: Reserve your time slot from Home (Shopping, Hospital...)
 - <strike>Health/Testing Status</strike>
-- Tracking for personal purposes* and for anonymized distances traveled etc.)
+- Tracking for personal purposes* and for anonymized distances traveled etc.). Tracking is optional (and Opt-In)
 - Outdoor Pass (if needed)
 - <strike>Contact Tracing</strike>
 
