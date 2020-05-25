@@ -1,7 +1,9 @@
 # Posmo B App
 
-## Alpha Version is available on Android
-![Posmo B](https://twitter.com/datamapio/status/1260537028531421184/photo/1)
+## Alpha Version is available on Android since May 8, 2020
+[Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmob)    
+![Posmo B](https://user-images.githubusercontent.com/7697124/82825117-ee6d7080-9eaa-11ea-8736-fc277e2e8fcc.jpeg)
+![Posmo B](https://user-images.githubusercontent.com/7697124/82825117-ee6d7080-9eaa-11ea-8736-fc277e2e8fcc.jpeg)
 
 
 ## Main Functionalities
