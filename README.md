@@ -1,5 +1,9 @@
 # Posmo B App
 
+## Alpha Version is available on Android
+![Posmo B](https://twitter.com/datamapio/status/1260537028531421184/photo/1)
+
+
 ## Main Functionalities
 
 UPDATE (April 16, Meeting at Datamap: Djordje, Valery, Roger):
