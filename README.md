@@ -3,7 +3,7 @@
 ## Alpha Version is available on Android since May 8, 2020
 [Google Play Store](https://play.google.com/store/apps/details?id=io.datamap.posmob)    
 ![Posmo B](https://user-images.githubusercontent.com/7697124/82825117-ee6d7080-9eaa-11ea-8736-fc277e2e8fcc.jpeg)
-![Posmo B](https://user-images.githubusercontent.com/7697124/82825117-ee6d7080-9eaa-11ea-8736-fc277e2e8fcc.jpeg)
+![Posmo B](https://user-images.githubusercontent.com/7697124/82825191-14931080-9eab-11ea-936f-854b0d8bc043.jpeg)
 
 
 ## Main Functionalities
